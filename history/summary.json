@@ -100,18 +100,19 @@
     "url": "https://gmmp.dev.codeforafrica.org/",
     "icon": "https://favicons.githubusercontent.com/gmmp.dev.codeforafrica.org",
     "slug": "gmmp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 894,
-    "timeDay": 1202,
-    "timeWeek": 1358,
-    "timeMonth": 1403,
-    "timeYear": 894,
+    "time": 909,
+    "timeDay": 2251,
+    "timeWeek": 1600,
+    "timeMonth": 1462,
+    "timeYear": 909,
     "dailyMinutesDown": {
+      "2021-06-14": 0,
       "2021-04-23": 16
     }
   }
