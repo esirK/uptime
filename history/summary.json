@@ -11,9 +11,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 88,
-    "timeDay": 74,
-    "timeWeek": 88,
-    "timeMonth": 95,
+    "timeDay": 64,
+    "timeWeek": 87,
+    "timeMonth": 94,
     "timeYear": 88,
     "dailyMinutesDown": {
       "2021-05-26": 71
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 143,
-    "timeDay": 133,
-    "timeWeek": 178,
-    "timeMonth": 187,
-    "timeYear": 143,
+    "time": 144,
+    "timeDay": 210,
+    "timeWeek": 188,
+    "timeMonth": 190,
+    "timeYear": 144,
     "dailyMinutesDown": {
       "2021-01-18": 91
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 406,
-    "timeDay": 433,
-    "timeWeek": 377,
-    "timeMonth": 381,
-    "timeYear": 406,
+    "time": 405,
+    "timeDay": 363,
+    "timeWeek": 374,
+    "timeMonth": 382,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2021-03-15": 196
     }
@@ -89,7 +89,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 18,
-    "timeDay": 13,
+    "timeDay": 14,
     "timeWeek": 20,
     "timeMonth": 23,
     "timeYear": 18,
@@ -102,17 +102,16 @@
     "slug": "gmmp",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 911,
-    "timeDay": 1910,
-    "timeWeek": 1559,
-    "timeMonth": 1455,
-    "timeYear": 911,
+    "time": 917,
+    "timeDay": 2121,
+    "timeWeek": 1612,
+    "timeMonth": 1468,
+    "timeYear": 917,
     "dailyMinutesDown": {
-      "2021-06-14": 9,
       "2021-04-23": 16
     }
   }
